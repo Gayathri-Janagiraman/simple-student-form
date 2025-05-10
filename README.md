@@ -13,7 +13,7 @@ A simple and interactive Student Form built using HTML, CSS, and JavaScript. Use
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/student-form.git
+   git clone https://github.com/Gayathri-Janagiraman/simple-student-form.git
   
   
 2. Open index.html in your browser:
