@@ -27,4 +27,5 @@ A simple and interactive Student Form built using HTML, CSS, and JavaScript. Use
 - CSS
 - JavaScript (Vanilla JS)
 
-[feedback]
+## Contact
+For questions or suggestions, feel free to open an issue or contact me via [LinkedIn] (https://www.linkedin.com/in/gayathri-janagiraman7/).
