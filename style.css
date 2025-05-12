@@ -33,3 +33,23 @@ body {
         border: none;
         padding: 8px 15px;
     }
+
+   @media screen and (max-width: 600px) {
+      #studentTable{
+        font-size: 13px;
+        max-width: 90%;
+      }
+      #studentTable td{
+          max-width: 120px;
+          word-break: break-all;
+          white-space: normal;
+      }
+
+     .delete-btn {
+        padding: 3px 5px;
+        font-size: 13px;
+      }
+       #studentTable th,#studentTable td{
+        padding: 4px;
+       }
+    }

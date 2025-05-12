@@ -43,3 +43,4 @@ function deleteRow(button) {
         document.getElementById("studentTable").style.display = "none";
     }
 }
+
